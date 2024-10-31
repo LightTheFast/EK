@@ -1,0 +1,39 @@
+/* Grundfarben */
+body {
+    background-color: #f9e9bd !important; /* Hintergrundfarbe Body */
+    color: #4E342E; /* Schriftfarbe Body */
+}
+
+
+footer {
+    color: #FFF7E1; /* Schriftfarbe Footer */
+}
+
+/* Buttons und Links */
+.btn-primary {
+    background-color: #FFA726; /* Button Farbe */
+    border-color: #FB8C00 !important;
+}
+
+.btn-primary:hover {
+    background-color: #FB8C00 !important; /* Hover Button Farbe */
+    border-color: #EF6C00 !important;
+}
+
+a {
+    color: #6D4C41 !important; /* Link Farbe (Navbar) */
+}
+
+a:hover {
+    color: #4E342E !important; /* Hover Link Farbe (Navbar) */
+}
+
+/*Footer Farbe */
+.bg-light {
+    background-color: #a48b45 !important;
+}
+
+/* Header Farbe */
+.bg-dark {
+    background-color: #3E2723 !important;
+}
